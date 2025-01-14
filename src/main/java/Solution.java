@@ -1,3 +1,4 @@
+
 public class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
         long mask1 = 0;
